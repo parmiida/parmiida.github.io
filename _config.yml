@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US" 
 title                    : "Parmida Sanaye"
-title_separator          : "-"
+title_separator          : "_"
 name                     : "Parmida" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
