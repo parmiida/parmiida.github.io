@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Parmida Sanaye"
-  avatar           : "<a href="http://uupload.ir/view/9qi2_profile-photo.jpg" target="_blank"><img src="http://uupload.ir/files/9qi2_profile-photo_thumb.jpg" border="0" alt="آپلود عکس" /></a>"
+  avatar           : ""
   bio              : CE/IUST 
   location         : "تهران"
   email            : parmidaasanaye@gmail.com
