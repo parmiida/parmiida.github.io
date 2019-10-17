@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Parmida Sanaye"
-  avatar           : ""
+  avatar           : "\assets\image\profile-photo.jpg"
   bio              : CE/IUST 
   location         : "تهران"
   email            : parmidaasanaye@gmail.com
