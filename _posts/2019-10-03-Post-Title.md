@@ -1,12 +1,17 @@
 ---
 layout: posts
-title: Sample post 1
+title:  Hard Disk Drive (HDD)
 ---
 
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
+A hard disk drive (HDD), hard disk, hard drive, or fixed disk is an electro-mechanical data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material.
 
 
----
-**Test**: This is atest
+<a href="http://uupload.ir/view/4mm9_20191017_125458.jpg" target="_blank"><img src="http://uupload.ir/files/4mm9_20191017_125458_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
+
+<a href="http://uupload.ir/view/8hqq_20191017_125425.jpg" target="_blank"><img src="http://uupload.ir/files/8hqq_20191017_125425_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
+
+<a href="http://uupload.ir/view/4hhl_20191017_125727.jpg" target="_blank"><img src="http://uupload.ir/files/4hhl_20191017_125727_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+
+17\11\2019
