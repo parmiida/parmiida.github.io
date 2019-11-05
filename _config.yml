@@ -107,15 +107,9 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Poorrang Atashi"
   avatar           : "/assets/images/6.jpg"
   bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-=======
-  name             : "Parmida Sanaye"
-  avatar           : "/assets/image/6.jpg"
-  bio              : CE/IUST 
->>>>>>> 23302abb658bac2b0a77fd4abda36b3ce60c5efe
   location         : "تهران"
   email            : parmidaasanaye@gmail.com
   twitter: 
