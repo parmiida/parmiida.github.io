@@ -9,5 +9,5 @@ comments: false
 ---
 
 
-* [IUST](http://iust.ac.ir.fa)
+* [IUST](http://www.iust.ac.ir/fa)
 
