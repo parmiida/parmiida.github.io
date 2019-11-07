@@ -9,6 +9,13 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+
+* cooking
+* watching training videos about cooking
+* shopping
+* reading poems
+* listening to music
+
+
 
 
