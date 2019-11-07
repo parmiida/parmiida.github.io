@@ -10,7 +10,7 @@ comments: false
 
 
 ### my hobbies :)
-* cooking
+* ♥ cooking ♥
 * watching training videos about cooking
 * shopping
 * reading poems
