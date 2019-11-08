@@ -11,8 +11,8 @@ comments: false
 
 ### my hobbies :)
 * ♥ cooking ♥
-* 🍳 watching training videos about cooking 🥣
-* 🛒 shopping 🛍
+* 🍳 watching training videos about cooking 🍳
+* 🛒 shopping 🛒 
 * 📖 reading poems 📖
-* 🎵 listening to music 🎶
+* 🎵 listening to music 🎵
 
