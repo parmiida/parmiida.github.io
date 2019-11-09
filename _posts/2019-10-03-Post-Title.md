@@ -14,4 +14,4 @@ A hard disk drive (HDD), hard disk, hard drive, or fixed disk is an electro-mech
 
 <a href="http://uupload.ir/view/4hhl_20191017_125727.jpg" target="_blank"><img src="http://uupload.ir/files/4hhl_20191017_125727_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
-17\11\2019
+
