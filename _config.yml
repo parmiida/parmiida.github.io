@@ -137,9 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "calendly"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://calendly.com/"
+    - label: "Calendly"
+      icon:  "fas fa-calendar-alt"
+      url: "https://calendly.com/parmidaasanaye"
 
 # Site Footer
 footer:
@@ -164,7 +164,7 @@ footer:
       # url:
     - label: "calendly"
       icon: "fab fa-fw fa-calendly"
-      # url:
+      url: "http://calendly.com/parmidaasanaye"
 
 
 # Reading Files
